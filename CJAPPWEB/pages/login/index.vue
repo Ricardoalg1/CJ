@@ -2,8 +2,8 @@
 
 <template>
   <div>
-    Page: login
-    
+    Page: login 2
+
   </div>
 </template>
 
